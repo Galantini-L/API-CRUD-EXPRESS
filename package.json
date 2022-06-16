@@ -1,0 +1,22 @@
+{
+  "name": "api_expressjs",
+  "version": "1.0.0",
+  "description": "Test",
+  "dependencies": {
+    "dotenv": "16.0.1",
+    "express": "4.18.1",
+    "mongoose": "6.3.8"
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Galantini Lautaro",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "2.0.16"
+  }
+}

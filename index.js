@@ -10,9 +10,9 @@ const notFound = require('./src/middleware/notFound')
 const app = express()
 
 /*
-    FANIOT TEST
-    API CRUD to consume data from a IR-1000 thermometer stored in MongoDB
-    DEVELOPED BY Lautaro Galantini
+    API CRUD to consume data from MongoDB
+    Simulate a termometer.
+    DEVELOPED BY Lautaro Galantini (https://www.linkedin.com/in/lautaro-galantini-a97125212/)
 */
 
 app.use(logger)

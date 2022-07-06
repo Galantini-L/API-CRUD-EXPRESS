@@ -1,4 +1,4 @@
-# TEST FANIOT - API termometro IR-1000
+# API Express CRUD - MONGODB
 
 ## Desarrollado por [Lautaro Galantini](https://www.linkedin.com/in/lautaro-galantini-a97125212/)
 
@@ -8,7 +8,6 @@ Desarrollado en Node.js utilizando Express y MongoDB con el framework mongoose.
 API que permite realizar las operaciones de CRUD de los datos del termometro IR-1000.
 Los test fueron hechos con Insomnia.
 Las respuestas son en formato JSON.
-El termometro IR-1000 diferencia las superficie, por lo que agregué un campo llamado 'surface' que es necesario para agregar los documnetos.
 
 #### ----- Endpoints -----
 GET :
